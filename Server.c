@@ -1,3 +1,6 @@
+/*
+本程序是一个有关tcp服务端（接收端）的例程
+*/
 #include <stdio.h>
 #include <string.h>
 #include <sys/types.h>          /* See NOTES */
